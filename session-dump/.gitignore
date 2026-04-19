@@ -1,0 +1,42 @@
+# dependencies
+node_modules/
+
+# output
+out/
+dist/
+*.tgz
+
+# code coverage
+coverage/
+*.lcov
+
+# logs
+logs/
+*.log
+report.*.*.*.*.json
+
+# local environment files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+*.local
+.direnv/
+
+# caches
+.eslintcache
+.cache/
+*.tsbuildinfo
+
+# editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.orig
+*.rej
+
+# OS metadata
+.DS_Store
+Thumbs.db
