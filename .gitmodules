@@ -1,0 +1,3 @@
+[submodule "apple-development-official"]
+	path = apple-development-official
+	url = https://github.com/gastonmorixe/apple-development-official-skill.git
